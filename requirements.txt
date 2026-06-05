@@ -1,0 +1,11 @@
+pandas
+numpy
+tqdm
+scikit-learn
+sentence-transformers
+chromadb
+transformers
+accelerate
+bitsandbytes
+rouge-score
+gradio
