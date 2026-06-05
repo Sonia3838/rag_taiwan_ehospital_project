@@ -5,7 +5,7 @@ DATA_PATH = Path("data/merged_medical_qa_0604_utf8_整理結果_removed_answer_f
 PERSIST_DIR = Path("chroma_db")
 COLLECTION_NAME = "taiwan_ehospital_qa"
 
-# 中文醫療問答建議使用多語或中文向量模型。
+# 
 EMBEDDING_MODEL = "BAAI/bge-m3"
 
 # RTX6000 / RTX4500 Ada 通常可跑 4-bit 7B。
